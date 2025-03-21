@@ -1,4 +1,5 @@
-<h4 align="left">👋 Hi, I'm @amrindersingh  <br>👀 Passionate about AI, ML, and Full-Stack Development  <br>🌱 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack (Node.js & Django)  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects  <br>📫 Reach me at: amrinderbalhar@gmail.com</h4>
+<h1 align="left">Hi 👋, I'm Amrinder Singh</h1>
+<h4 align="left">👀 Passionate about AI, ML, and Full-Stack Development  <br>🌱 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack (Node.js & Django)  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects  <br>📫 Reach me at: amrinderbalhar@gmail.com</h4>
 
 ###
 
