@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I'm @amrindersingh  <br>👀 Passionate about AI, ML, and Full-Stack Development  <br>🌱 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack (Node.js & Django)  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects  <br>📫 Reach me at: AmrinderBalhar@gmail.com</h4>
+<h4 align="left">👋 Hi, I'm @amrindersingh  <br>👀 Passionate about AI, ML, and Full-Stack Development  <br>🌱 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack (Node.js & Django)  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects  <br>📫 Reach me at: amrinderbalhar@gmail.com</h4>
 
 ###
 
@@ -73,9 +73,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discord.com/users/amuo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:amrinderbalhar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amrinder-singh-uh-computer-science/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
