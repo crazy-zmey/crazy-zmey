@@ -70,6 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+<h1 align="left">🌐 Socials:</h1>
+
 ###
 
 <div align="left">
