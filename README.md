@@ -97,6 +97,30 @@
 
 ###
 
+<h1 align="center">💡 Learning Through Building</h1>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amuo007&theme=radical" alt="GitHub streak"/>
+</div>
+
+<h3 align="center">I don't just learn technologies - I build with them as I go!</h3>
+
+<div align="center">
+  
+  ```
+  🔍 DISCOVER → 🛠️ BUILD → 🧠 LEARN → 🚀 REPEAT
+  ```
+  
+</div>
+
+<h4 align="center">Current Projects: Neural Networks from Scratch | Cross-Platform Mobile App | Custom ML Models</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amuo007&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+###
 
 ###
