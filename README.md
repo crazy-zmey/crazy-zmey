@@ -97,7 +97,7 @@
 
 ###
 
-<h1 align="center">💡 Learning Through Building</h1>
+<h1 align="center">💡 Learning Through Building </h1>
 
 
 <h3 align="center">I don't just learn technologies - I build with them as I go!</h3>
