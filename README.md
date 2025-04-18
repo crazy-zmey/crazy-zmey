@@ -114,9 +114,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amuo007&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+
 
 ###
 
