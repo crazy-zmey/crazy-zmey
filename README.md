@@ -110,7 +110,7 @@
   
 </div>
 
-<h4 align="center">Current Projects: Neural Networks from Scratch | Cross-Platform Mobile App. | Custom ML Models</h4>
+<h4 align="center">Current Projects: Neural Networks from Scratch | Cross-Platform Mobile App. | Custom ML Models.</h4>
 
 ###
 
