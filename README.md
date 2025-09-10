@@ -94,26 +94,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/crazy-zmey/crazy-zmey/b88cac816411e93a454547357151fdcc2c86a8fe/snake.svg" alt="Snake animation" />
-
-###
-
-<h1 align="center">💡 Learning Through Building. </h1>
-
-
-<h3 align="center">I don't just learn technologies. - I build with them as I go!</h3>
-
-<div align="center">
-  
-  ```
-  🔍 DISCOVER → 🛠️ BUILD → 🧠 LEARN → 🚀 REPEAT
-  ```
-  
-</div>
-
-###
-
-
-
-###
-
-###
