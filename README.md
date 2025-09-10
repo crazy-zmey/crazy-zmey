@@ -93,7 +93,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zmey-xyz/Profile/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/crazy-zmey/snake.svg" alt="Snake animation" />
 
 ###
 
