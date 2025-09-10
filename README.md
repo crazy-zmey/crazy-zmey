@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Amrinder Singh.</h1>
+<h1 align="left">Hi 👋, I'm Crazy Zmey.</h1>
 
 <h1 align="left">About Me:</h1>
-<h4 align="left">👀 Passionate about AI, ML, and Full-Stack Development.  <br>🎓 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack ( Node.js & Django )  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects. <br>📫 Reach me at: amrinderbalhar@gmail.com</h4>
+<h4 align="left">👀 Passionate about AI - Full-Stack Development.  <br>🎓 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack (Next.js & Laravel )  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects. <br>📫 Reach me at: zmey.crz@gmail.com</h4>
 
 ###
 
@@ -78,13 +78,13 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/zmey-xyz" target="_blank">
+  <a href="https://discord.com/users/crazy-zmey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:zmey.xyz@gmail.com" target="_blank">
+  <a href="mailto:zmey.crz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/amrinder-singh-uh-computer-science/" target="_blank">
+  <a href="https://www.linkedin.com/in/crazy-zmey/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -93,7 +93,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/crazy-zmey/snake.svg" alt="Snake animation" />
+<img src="https://github.com/crazy-zmey/crazy-zmey/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -109,8 +109,6 @@
   ```
   
 </div>
-
-<h4 align="center">Current Projects: Neural Networks from Scratch | Cross-Platform Mobile App. | Custom ML Models.</h4>
 
 ###
 
