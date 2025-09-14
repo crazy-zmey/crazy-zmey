@@ -93,4 +93,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/crazy-zmey/crazy-zmey/b88cac816411e93a454547357151fdcc2c86a8fe/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/crazy-zmey/crazy-zmey/1f9d21d30ac078139105a908dc5ffa7b98e40bf5/snake.svg" alt="Snake animation" />
