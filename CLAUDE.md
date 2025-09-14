@@ -15,16 +15,29 @@ This is a GitHub profile repository for Amrinder Singh (zmey-xyz), containing pr
 
 ## Repository Structure
 
-- `README.md` - Main profile documentation with tech stack and contact information
-- `Untitled.svg` - SVG asset file
-- `Untitled-1.xml` - XML configuration file
+- `README.md` - Main profile documentation with animated tech stack display and social links
+- `snake.svg` - Animated GitHub contribution snake that spells out "ZMEY" using GitHub's contribution graph style
+- `snake_update.txt` - Documentation for updating snake animation coordinates and letter positions
+- `Untitled-1.xml` - Legacy SVG configuration file for snake animation
+
+## Key Assets
+
+### Snake Animation (`snake.svg`)
+- Custom animated SVG that creates a snake-like animation eating GitHub contribution graph cells
+- Spells out "ZMEY" with letter-specific keyframe animations
+- Uses CSS keyframes for smooth animation loops (15.1 second duration)
+- Generated using https://github.com/Platane/snk but with custom modifications
+- Letter positioning is configurable via coordinate updates in `snake_update.txt`
 
 ## Development Context
 
-This repository does not contain executable code or development frameworks. It's a static profile repository focused on presentation rather than application development. No build processes, testing frameworks, or development commands are applicable.
+This repository is a static GitHub profile showcase with no build processes or development frameworks. The primary maintenance involves:
+- Updating profile information in README.md
+- Modifying snake animation coordinates when needed (refer to `snake_update.txt`)
+- Ensuring animated SVG displays correctly across different platforms
 
 ## Contact Information
 
-- Email: amrinderbalhar@gmail.com / zmey.xyz@gmail.com
-- LinkedIn: amrinder-singh-uh-computer-science
-- Discord: zmey-xyz
+- Primary: zmey.crz@gmail.com
+- LinkedIn: crazy-zmey
+- Discord: crazy-zmey

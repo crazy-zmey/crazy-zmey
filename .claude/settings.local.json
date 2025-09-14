@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Read(/C:\\Users\\Monster\\Pictures\\Screenshots/**)",
-      "Read(/C:\\Users\\Monster\\Pictures\\Screenshots/**)"
+      "Read(/C:\\Users\\Monster\\Pictures\\Screenshots/**)",
+      "Bash(git checkout:*)"
     ],
     "deny": [],
     "ask": []
