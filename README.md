@@ -9,22 +9,22 @@
 
 <div align="left">
   <a href="https://www.zmey.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=internetexplorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"  />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" height="50" width="50" alt="portfolio" style="background-color:#0078D4; padding:8px; border-radius:8px;" />
   </a>
   <a href="https://www.linkedin.com/in/crazy-zmey/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="50" width="50" alt="linkedin" style="background-color:#0077B5; padding:8px; border-radius:8px;" />
   </a>
   <a href="https://t.me/crazy-zmey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram"  />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="50" width="50" alt="telegram" style="background-color:#26A5E4; padding:8px; border-radius:8px;" />
   </a>
   <a href="https://discord.com/users/1327355412189810779" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord"  />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="50" width="50" alt="discord" style="background-color:#7289DA; padding:8px; border-radius:8px;" />
   </a>
   <a href="https://wa.me/380996759252" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp"  />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="50" width="50" alt="whatsapp" style="background-color:#25D366; padding:8px; border-radius:8px;" />
   </a>
   <a href="mailto:zmey.crz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="50" width="50" alt="gmail" style="background-color:#D14836; padding:8px; border-radius:8px;" />
   </a>
 </div>
 
