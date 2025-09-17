@@ -8,23 +8,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.zmey.xyz" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" height="50" width="50" alt="portfolio" style="background-color:#0078D4; padding:10px; border-radius:10px; filter: brightness(0) invert(1);" />
+  <a href="https://www.zmey.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.linkedin.com/in/crazy-zmey/" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="50" width="50" alt="linkedin" style="background-color:#0077B5; padding:10px; border-radius:10px; filter: brightness(0) invert(1);" />
+  <a href="https://www.linkedin.com/in/crazy-zmey/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
-  <a href="https://t.me/crazy-zmey" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="50" width="50" alt="telegram" style="background-color:#26A5E4; padding:10px; border-radius:10px; filter: brightness(0) invert(1);" />
+  <a href="https://t.me/crazy-zmey" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
-  <a href="https://discord.com/users/1327355412189810779" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="50" width="50" alt="discord" style="background-color:#7289DA; padding:10px; border-radius:10px; filter: brightness(0) invert(1);" />
+  <a href="https://discord.com/users/1327355412189810779" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
-  <a href="https://wa.me/380996759252" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="50" width="50" alt="whatsapp" style="background-color:#25D366; padding:10px; border-radius:10px; filter: brightness(0) invert(1);" />
+  <a href="https://wa.me/380996759252" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
   <a href="mailto:zmey.crz@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="50" width="50" alt="gmail" style="background-color:#D14836; padding:10px; border-radius:10px; filter: brightness(0) invert(1);" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" height="50" />
   </a>
 </div>
 
