@@ -3,10 +3,6 @@
 <h1 align="left">About Me:</h1>
 <h4 align="left">👀 Passionate about AI - Full-Stack Development.  <br>🎓 CS undergrad at University of Houston (ex-Lone Star College)  <br>💻 Experienced in iOS, Android, Full-Stack (Next.js & Laravel )  <br>💞️ Open to collaborating on AI, mobile, or full-stack projects. <br>📫 Reach me at: zmey.crz@gmail.com</h4>
 
-<h1 align="left">🌐 Socials:</h1>
-
-###
-
 <div align="left">
   <a href="https://www.zmey.xyz" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
