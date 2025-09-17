@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/crazy-zmey/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
-  <a href="https://t.me/crazy-zmey" target="_blank">
+  <a href="https://t.me/crazy_zmey" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=40" height="50" style="margin-right: 20px;" />
   </a>
   <a href="https://discord.com/users/1327355412189810779" target="_blank">
